@@ -1,78 +1,53 @@
 # (Your Name) - (M1/M2/M3/M4) Portfolio
 
-## Areas of Emphasis
+## End of Module Reflection
 
-(What did you set out to accomplish this module?)
+What did you get technically and professionally out of this module? How are you going to use it in the future?
 
-## Rubric Scores
+## Self-Evaluated Rubric Scores
+
+Find the rubric [here](rubric.markdown).
 
 * **A: End-of-Module Assessment**: X
 * **B: Individual Work & Projects**: X
 * **C: Group Work & Projects**: X
 * **D: Professional Skills**: X
-* **E: Feedback & Community Participation**: X
+* **E: Feedback**: X
+* **F: Community Participation**: X
 
 -----------------------
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Add your notes and scores here.
 
+## B: Projects
 
-## B: Individual Work & Projects
+### Group Projects
 
-(Intro)
+#### [Project Name](include-link-to-production-site-here)
 
-#### (Project Name)
+If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
-* [GitHub URL]()
-* [Original Assignment]()
+### Individual Projects
 
-(description)
+#### [Project Name](include-link-to-production-site-here)
 
-(evaluation comments)
+If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
-(evaluation scores)
-
-## C: Group Work & Projects
-
-### Projects
-
-(Intro)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-(feedback to me)
-
-## D: Professional Skills
-(Intro)
+## C: Professional Skills
 
 ### Gear Up
-#### (Session Name)
+#### Session Name
 
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
+Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
 
 ### Professional Development Workshops
 #### (Session Name)
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+Include takeaways and deliverables from each session.
 
-(takeaways from session)
-
-## E: Feedback and Community Participation
+## D: Feedback
 
 ### Giving Feedback
 
@@ -82,9 +57,9 @@
 
 (feedback to me)
 
-### Playing a Part
+## E: Community Participation
 
-(ways you supported the larger Turing community)
+How did you actively contribute to the Turing community?
 
 ------------------
 
