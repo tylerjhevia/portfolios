@@ -6,7 +6,7 @@ What did you get technically and professionally out of this module? How are you 
 
 ## Self-Evaluated Rubric Scores
 
-Find the rubric [here](rubric.markdown).
+Find the rubric near the end of this document.
 
 * **A: End of Module Assessment**: X
 * **B: Individual & Group Work**: X
